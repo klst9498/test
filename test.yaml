@@ -21,7 +21,7 @@ jenkins:
           - "Overall/Read"
         items:
         - assignments:
-          - "nb2607"
+          - "klst9498_"
           name: "Raptor/example"
           pattern: "Raptor.*"
           permissions:
