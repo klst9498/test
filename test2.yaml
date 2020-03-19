@@ -21,8 +21,8 @@ jenkins:
           - "Overall/Read"
         items:
         - assignments:
-          - "klst9498_1234566"
-          name: "Raptor/example"
+          - "klst9498_"
+          name: "Paptor/example"
           pattern: "Raptor.*"
           permissions:
           - "Job/Cancel"
